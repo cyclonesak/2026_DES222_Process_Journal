@@ -13,8 +13,22 @@ The proof video is one of mine.
 Monday 17 August 2026
 - Roughed out a concept and plan in the README.md file
 
-<div style="border:1px solid #ccc; padding:20px; max-height:600px; overflow-y:auto;">
-{% include_relative README.md %}
-</div>
+<div id="readme-window" style="
+    border:1px solid #ccc;
+    padding:20px;
+    background:#fafafa;
+    max-height:600px;
+    overflow-y:auto;
+"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+fetch("https://raw.githubusercontent.com/cyclonesak/2026_DES222_Process_Journal/main/README.md")
+  .then(response => response.text())
+  .then(text => {
+    document.getElementById("readme-window").innerHTML = marked.parse(text);
+  });
+</script>
+
 
 
