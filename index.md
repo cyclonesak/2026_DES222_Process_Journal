@@ -10,8 +10,10 @@ The proof video is one of mine.
 {% include youtube.html id="lRtFz77kVhU" %}
 ---
 # Now the real deal...
-Monday 17 August 2026
-- Roughed out a concept and plan in the README.md file
+---
+---
+# Entry 1 - Monday 17 August 2026
+- Roughed out a concept and plan in the [README.md](/README.md) file
 
 <div id="readme-window" style="
     border:1px solid #ccc;
