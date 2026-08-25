@@ -1,6 +1,6 @@
 ## [DES222 Process Journal](https://cyclonesak.github.io/2026_DES222_Process_Journal/)
 
-[Markdown Cheet-sheet](MD_cheat-sheet.md) or [GFM guide](https://github.github.com/gfm/)
+[Markdown Cheat-sheet](MD_cheat-sheet.md) or [GFM guide](https://github.github.com/gfm/)
 
 **Development of a responsive technology prototype - an application or device that responds to the situation/context it is in. This could be:**
 - a mobile application (or web interface viewed on a phone) that taps into the sensors of the mobile device, such as location or orientation
@@ -11,7 +11,7 @@
 - project concept, and how it relates to responsive design.
 - one or more possible realisations of the concept
 - discussion of existing related projects
-any progress so far (can be quite brief, just what they are)
+- any progress so far (can be quite brief, just what they are)
 
 **The material you present in your Oral Presentation should be reflected in your process journal (see below) at the time of the presentation.**
 
@@ -23,9 +23,9 @@ At the end of the semester, you should be able to follow your thoughts and actio
 # My Project
 TBC...
 
-When I go kitesurfing, it can get a bit cold out in the wind. I usually have my phone with me - it tracks my location and measures jump height using the accerometer [Surfr App](https://www.thesurfr.app/). What if I create a sensor to measure my core temperature under my wetsuit that will send an alarm to my phone if it drops below a certain value... it emits a buzzer noise. I could also add a sensor for UV light for sunburn risk - measure the light over a certain time period - if brighter than x - remind user to reapply sunscreen.
+When I go kitesurfing, it can get a bit cold out in the wind. I usually have my phone with me - it tracks my location and measures jump height using the accelerometer [Surfr App](https://www.thesurfr.app/). What if I create a sensor to measure my core temperature under my wetsuit that will send an alarm to my phone if it drops below a certain value... it emits a buzzer noise. I could also add a sensor for UV light for sunburn risk - measure the light over a certain time period - if brighter than x - remind user to reapply sunscreen.
 
-OR.. I could do it the other way around - is it too hot, too bright? Build a Green / Yellow / Red LED 
+OR... I could do it the other way around - is it too hot, too bright? Build a Blue / Green / Yellow / Red LED indicator.
 
 #### Hardware:
 - ESP32
@@ -49,15 +49,16 @@ The page restyles itself from the live mode. This is dynamic configuration, not 
 Reuse Task 1 phone / tablet / desktop layouts, light and dark. Force high contrast even if the OS theme is dark if Surfr is running or brightness is >x or some other trigger.
 
 **The Plan:**
- - for the pitch: Show a breadboard that already switches LED colour, plus phone mockups or a half-working page.
+- for the pitch: Show a breadboard that already switches LED colour, plus phone mockups or a half-working page.
  
  **Three-minute video storyboard:**
  1. Clip onto a bag. Walk outside.
  2. Close-up of LED shifting as glare and heat rise.
  3. Phone in the sun: type gets huge, charts disappear, word becomes "SEEK SHADE" reapply sunscreen or whatever.
  4. Step under a tree or indoors: UI settles, LED calms.
- 5. One sentence on why the device stopped asking for attention.
- 6. Shoot it in one afternoon in a backyard
+ 5. One sentence on why the device stopped asking for attention.  
+
+- Shoot it in one afternoon in a backyard
 
  If I have no light sensor, use the phone’s ambient-light or time-of-day as the second channel, and keep the ESP32 for on-body temperature.
 
