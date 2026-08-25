@@ -34,7 +34,7 @@ fetch("https://raw.githubusercontent.com/cyclonesak/2026_DES222_Process_Journal/
 
 # Entry 2 - Weekeend of 22/23 August...
 
-### Some notes on Accessability: 
+### Some notes on Accessibility: 
 Guided by Australian [Disability Discriination Act 1992](https://www.legislation.gov.au/C2004A04426/latest/text)  
 #### Design for access by persons with disabilities:
   - Low vision and colour defficiency
@@ -59,3 +59,10 @@ Guided by Australian [Disability Discriination Act 1992](https://www.legislation
   - Make it left justified  
   - Consider using an accessability widget like [this...](https://userway.org/widget/)
 
+# Entry 3 - Week 6
+### Data smoothing example
+    s = x * r + s * (1 - r)
+  **Exponential low pass filter** x is the raw signal and s is the smoother result. r is the weighting for the new value (ie 5%) -> update the smoothed value by setting it equal to 95% of its previous smoothed value plus 5% of the newly observed signal value.
+![Example Filter image](filterExample/ema_lowpass_demo.png)
+
+# Entry 4 - Week 7
