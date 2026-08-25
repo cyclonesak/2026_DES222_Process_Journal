@@ -57,5 +57,5 @@ Guided by Australian [Disability Discriination Act 1992](https://www.legislation
   - No autoplaying videos or animations and no flashing elements  
     (Implement a "pause background animation" feature)
   - Make it left justified  
-  - Consider using an accessability widget like https://userway.org/widget/
+  - Consider using an accessability widget like [this...](https://userway.org/widget/)
 
