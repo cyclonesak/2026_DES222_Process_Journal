@@ -61,7 +61,7 @@ Guided by Australian [Disability Discrimination Act 1992](https://www.legislatio
 
 # Entry 3 - Week 6
 ### Data smoothing example
-    s = x * r + s * (1 - r)
+s = x * r + s * (1 - r)  
   **Exponential low pass filter** x is the raw signal and s is the smoothed result.  
   r is the weighting for the new value (ie 5%) -> update the smoothed value by setting  
   it equal to 95% of its previous smoothed value plus 5% of the newly observed signal value.
