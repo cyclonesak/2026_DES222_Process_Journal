@@ -69,6 +69,6 @@ s = x * r + s * (1 - r)
 
 # Entry 4 - Week 7
 
-The WORST part... I want to produce <something> I am struggling so much visualising a coherent, stable vision of what <something> is!  
+The WORST part... I want to produce * **something** * I am struggling so much visualising a coherent, stable vision of what * **something** * is!  
 I get lost in a detail and stray from my goal with needless complexity.
 
