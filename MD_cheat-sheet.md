@@ -110,10 +110,6 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-### Subscript
+### Subscript and Superscript
 
-H~2~O
-
-### Superscript
-
-X^2^
+H<sub>2</sub>O and E = mc<sup>2</sup>
