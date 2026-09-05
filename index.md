@@ -83,7 +83,7 @@ I have made some purchases and have made some progress familiarising myself with
 | <img src="/images/ESP32-S3.jpg" alt="ESP32-S3" width="400"> | <img src="/images/ESP32_Connected.png" alt="Programming Int" width="400"> |
 
 <p float="left">
-  <img src="/images/ESP32-S3.jpg" width="400" />
+  <img src="https://github.com/cyclonesak/2026_DES222_Process_Journal/blob/main/images/ESP32-S3.jpg" width="400" />
   <img src="/images/ESP32_Connected.png" width="400" />
 </p>
 
