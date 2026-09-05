@@ -89,8 +89,8 @@ I have made some purchases and have made some progress familiarising myself with
 </table>
 (The "trick" for side to side images to appear correctly in GitHub pages was to include the parent folder in the src= path.)
  
+![S12SD UV Sensor and DS18B20 Waterproof Digital Temperature Sensor ](/images/sensors.png)  
 I also have a breadboard, wiring, battery power supply and a number of other sensors.
-
 # Entry 5 - Week 8 preparation...
 
 I'm not sure how to pull off a zoom presentation. I have a half complete Powerpoint but think I am better off just sharing my GitHub site ... 
