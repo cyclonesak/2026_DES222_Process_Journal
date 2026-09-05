@@ -1,3 +1,4 @@
+# DES222 Responsive Design and Technology Process Journal
 # Prequel One
 Setting up the Journal based on week 5 learning materials
 # Prequel 2
