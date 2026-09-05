@@ -78,12 +78,9 @@ I need help, I don't know how to ask - its not something I do.
 
 I have made some purchases and have made some progress familiarising myself with how the **ESP32-S3** works
 
-<table>
-  <tr>
-    <td><img src="/images/ESP32-S3.jpg" width="400"></td>
-    <td><img src="/images/ESP32_Connected.png" width="400"></td>
-  </tr>
-</table>
+| ESP32-S3 | Prog Interface |
+|--------|---------|
+| <img src="/images/ESP32-S3.jpg" width="400"> | <img src="/images/ESP32_Connected.png" width="400"> |
 
 I also have a breadboard, wiring, battery power supply and a number of other sensors.
 
