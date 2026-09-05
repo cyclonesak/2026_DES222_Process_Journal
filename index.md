@@ -91,7 +91,7 @@ I have made some purchases and have made some progress familiarising myself with
   
 I also have a breadboard, wiring, battery power supply and a number of other sensors.  
 
-<p align="center"><img alt="S12SD UV Sensor and DS18B20 Waterproof Digital Temperature Sensor" src="/2026_DES222_Process_Journal/images/sensors.jpg" width="450"></p>  
+<p align="center"><img alt="S12SD UV Sensor and DS18B20 Waterproof Digital Temperature Sensor" src="/2026_DES222_Process_Journal/images/Sensors.jpg" width="450"></p>  
   
 <p align="center"><img alt="Wiring and sensors" src="/2026_DES222_Process_Journal/images/WiringAndSensors.jpg" width="450"></p>  
 
