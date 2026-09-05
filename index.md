@@ -77,20 +77,12 @@ I need help, I don't know how to ask - its not something I do.
 ### In other news...
 
 I have made some purchases and have made some progress familiarising myself with how the **ESP32-S3** works
-
-| ESP32-S3 | Prog Interface |
-|--------|---------|
-| <img src="/images/ESP32-S3.jpg" alt="ESP32-S3" width="400"> | <img src="/images/ESP32_Connected.png" alt="Programming Int" width="400"> |
-
-<p float="left">
-  <img src="https://github.com/cyclonesak/2026_DES222_Process_Journal/blob/main/images/ESP32-S3.jpg" width="400" />
-  <img src="/images/ESP32_Connected.png" width="400" />
-</p>
-
-
-![ESP32-S3](/images/ESP32-S3.jpg)
+  
+![ESP32-S3](/images/ESP32-S3.jpg)  
+| ESP32-S3 |
 ![Programming interface](/images/ESP32_Connected.png)
-
+ Prog Interface | 
+ 
 I also have a breadboard, wiring, battery power supply and a number of other sensors.
 
 # Entry 5 - Week 8 preparation...
