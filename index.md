@@ -72,3 +72,16 @@ s = x * r + s * (1 - r)
 The WORST part... I want to produce * **something** * I am struggling so much visualising a coherent, stable vision of what * **something** * is!  
 I get lost in a detail and stray from my goal with needless complexity.
 
+I need help, I don't know how to ask - its not something I do.
+
+### In other news...
+
+I have made some purchases and have made some progress familiarising myself with how the **ESP32-S3** works
+
+![ESP32-S3](/images/ESP32-S3.jpg)
+
+![alt text](/images/ESP32_Connected.png)
+
+I also have a breadboard, wiring, battery power supply and a number of other sensors.
+
+# Entry 5 - Week 8 preparation...
