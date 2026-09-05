@@ -95,8 +95,6 @@ I also have a breadboard, wiring, battery power supply and a number of other sen
   
 <p align="center"><img alt="Wiring and sensors" src="/2026_DES222_Process_Journal/images/WiringAndSensors.jpg" width="450"></p>  
 
-![Wiring and sensors](/2026_DES222_Process_Journal/images/WiringAndSensors.jpg)
-
 # Entry 5 - Week 8 preparation...
 
 I'm not sure how to pull off a zoom presentation. I have a half complete Powerpoint but think I am better off just sharing my GitHub site ... 
