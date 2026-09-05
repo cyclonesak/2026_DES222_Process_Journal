@@ -50,13 +50,11 @@ Reuse Task 1 phone / tablet / desktop layouts, light and dark. Force high contra
 **The Plan:**
 - for the pitch: Show a breadboard that already switches LED colour, plus phone mockups or a half-working page.
  
- **Three-minute video storyboard:**
+ **Three-minute video story:**
  1. Clip onto a bag. Walk outside.
  2. Close-up of LED shifting as glare and heat rise.
  3. Phone in the sun: type gets huge, charts disappear, word becomes "SEEK SHADE" reapply sunscreen or whatever.
  4. Step under a tree or indoors: UI settles, LED calms.
-
-- Shoot it in one afternoon in a backyard
 
  If I have no light sensor functional, use the phone’s ambient-light or time-of-day search on weather API UV index as the second channel, and keep the ESP32 for on-body temperature.
 
