@@ -1,10 +1,13 @@
-# DES222 Responsive Design and Technology Process Journal
+# DES222 Task 2 - Process Journal
+
 # Prequel One
 Setting up the Journal based on week 5 learning materials
-# Prequel 2
+
+# Prequel Two
 The picture from my phone of a ship at sea, in place it shouldn't be, sailing close to the rocks - means nothing ... 😄
 <p align="center"><img src="/2026_DES222_Process_Journal/images/ship_at_sea.jpg" width="512" height="682"></p>
-# Prequel 3
+
+# Prequel Three
 Added the [Youtube solution](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/) _includes folder.
 The proof video is one of mine.
 {% include youtube.html id="lRtFz77kVhU" %}
