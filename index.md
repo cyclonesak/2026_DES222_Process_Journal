@@ -83,8 +83,8 @@ I have made some purchases and have made some progress familiarising myself with
 
 <table>
   <tr>
-    <td><img alt="ESP32-S3" src="/2026_DES222_Process_Journal/images/ESP32-S3.jpg" width="450"></td>
-    <td><img alt="Prog Interface" src="/2026_DES222_Process_Journal/images/ESP32_Connected.png" width="450"></td>
+    <td><img alt="ESP32-S3" src="/2026_DES222_Process_Journal/images/ESP32-S3.jpg" width="300"></td>
+    <td><img alt="Prog Interface" src="/2026_DES222_Process_Journal/images/ESP32_Connected.png" width="300"></td>
   </tr>
 </table>
 (The "trick" for side to side images to appear correctly in GitHub pages was to include the parent folder in the src= path.)  
