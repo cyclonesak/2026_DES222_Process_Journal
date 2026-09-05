@@ -87,11 +87,16 @@ I have made some purchases and have made some progress familiarising myself with
     <td><img alt="Prog Interface" src="/2026_DES222_Process_Journal/images/ESP32_Connected.png" width="450"></td>
   </tr>
 </table>
-(The "trick" for side to side images to appear correctly in GitHub pages was to include the parent folder in the src= path.)
- 
-![S12SD UV Sensor and DS18B20 Waterproof Digital Temperature Sensor ](/2026_DES222_Process_Journal/images/sensors.png)  
-I also have a breadboard, wiring, battery power supply and a number of other sensors.
+(The "trick" for side to side images to appear correctly in GitHub pages was to include the parent folder in the src= path.)  
+  
+I also have a breadboard, wiring, battery power supply and a number of other sensors.  
+
+<p align="center"><img alt="S12SD UV Sensor and DS18B20 Waterproof Digital Temperature Sensor" src="/2026_DES222_Process_Journal/images/sensors.jpg" width="450"></p>  
+  
+<p align="center"><img alt="Wiring and sensors" src="/2026_DES222_Process_Journal/images/WiringAndSensors.jpg" width="450"></p>  
+
 ![Wiring and sensors](/2026_DES222_Process_Journal/images/WiringAndSensors.jpg)
+
 # Entry 5 - Week 8 preparation...
 
 I'm not sure how to pull off a zoom presentation. I have a half complete Powerpoint but think I am better off just sharing my GitHub site ... 
