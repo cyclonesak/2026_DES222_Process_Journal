@@ -21,7 +21,6 @@ At the end of the semester, you should be able to follow your thoughts and actio
 
 ---
 # My Project
-TBC...
 
 When I go kitesurfing, it can get a bit cold out in the wind. I usually have my phone with me - it tracks my location and measures jump height using the accelerometer [Surfr App](https://www.thesurfr.app/). What if I create a sensor to measure my core temperature under my wetsuit that will send an alarm to my phone if it drops below a certain value... it emits a buzzer noise. I could also add a sensor for UV light for sunburn risk - measure the light over a certain time period - if brighter than x - remind user to reapply sunscreen.
 
@@ -56,10 +55,9 @@ Reuse Task 1 phone / tablet / desktop layouts, light and dark. Force high contra
  2. Close-up of LED shifting as glare and heat rise.
  3. Phone in the sun: type gets huge, charts disappear, word becomes "SEEK SHADE" reapply sunscreen or whatever.
  4. Step under a tree or indoors: UI settles, LED calms.
- 5. One sentence on why the device stopped asking for attention.  
 
 - Shoot it in one afternoon in a backyard
 
- If I have no light sensor, use the phone’s ambient-light or time-of-day as the second channel, and keep the ESP32 for on-body temperature.
+ If I have no light sensor functional, use the phone’s ambient-light or time-of-day search on weather API UV index as the second channel, and keep the ESP32 for on-body temperature.
 
- modes GO / PAUSE / Pack-down, and treat glare + heat + “can I use my phone with sandy hands”
+ modes GO / PAUSE / Pack-down, and treat glare + heat + “can I use my device without sandy, wet hands?”
