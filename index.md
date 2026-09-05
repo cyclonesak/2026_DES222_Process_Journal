@@ -80,7 +80,16 @@ I have made some purchases and have made some progress familiarising myself with
 
 | ESP32-S3 | Prog Interface |
 |--------|---------|
-| <img src="/images/ESP32-S3.jpg" width="400"> | <img src="/images/ESP32_Connected.png" width="400"> |
+| <img src="/images/ESP32-S3.jpg" alt="ESP32-S3" width="400"> | <img src="/images/ESP32_Connected.png" alt="Programming Int" width="400"> |
+
+<p float="left">
+  <img src="/images/ESP32-S3.jpg" width="400" />
+  <img src="/images/ESP32_Connected.png" width="400" />
+</p>
+
+
+![ESP32-S3](/images/ESP32-S3.jpg)
+![Programming interface](/images/ESP32_Connected.png)
 
 I also have a breadboard, wiring, battery power supply and a number of other sensors.
 
