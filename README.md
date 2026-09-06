@@ -1,4 +1,4 @@
-## [DES222 Process Journal](https://cyclonesak.github.io/2026_DES222_Process_Journal/)
+## [DES222 Process Journal](https://cyclonesak.github.io/2026_DES222_Process_Journal/) <- click here to visit live site!
 
 [Markdown Cheat-sheet](MD_cheat-sheet.md) or [GFM guide](https://github.github.com/gfm/)
 
