@@ -17,6 +17,7 @@ The proof video is one of mine.
 ---
 # Entry 1 - Monday 17 August 2026
 - Roughed out a concept and plan in the [README.md](/README.md) file
+- This entry below updates as the README.md file is updated
 
 <div id="readme-window" style="
     border:1px solid #ccc;
