@@ -81,4 +81,4 @@ Reuse Task 1 phone / tablet / desktop layouts, light and dark. Force high contra
 
  modes GO / PAUSE / Pack-down, and treat glare + heat + “can I use my device without sandy, wet hands?”
 
- **The future**: Biuld a commercial miniturised unit that bluetooths to the commercial apps and sell it to them!
+ **The future**: Biuld a miniturised unit that bluetooths to the commercial apps and sell it to them!
