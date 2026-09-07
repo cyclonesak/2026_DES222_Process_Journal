@@ -20,7 +20,7 @@ The role of a process journal is to have a place where you can record your proce
 At the end of the semester, you should be able to follow your thoughts and actions on a week-to-week basis and be able to re-create anything you have made, even a significant time later (such a year from now).
 
 ---
-<p align="center"><img alt="KiteArt" src="/images/Intro.jpg" width="400"></p>
+<p align="center"><img alt="KiteSafe Art" src="/images/Intro.jpg" width="400"></p>
 # My Project
 
 When I go kitesurfing, it can get a bit cold out in the wind. I usually have my phone with me - it tracks my location and measures jump height using the accelerometer [Surfr App](https://www.thesurfr.app/). What if I create a sensor to measure my core temperature under my wetsuit that will send an alarm to my phone if it drops below a certain value... it emits a buzzer noise. I could also add a sensor for UV light for sunburn risk - measure the light over a certain time period - if brighter than x - remind user to reapply sunscreen.
