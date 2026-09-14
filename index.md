@@ -2,6 +2,31 @@
 
 # Prequel One
 Setting up the Journal based on week 5 learning materials
+---
+### Record everything in raw form in a way you can revisit it...
+- track what you've done
+- parameters settings material
+- where you found stuff
+- keeper of ideas
+- List and sketches
+- concepts
+- raw working notes process journal (Copyright)
+- showing development process
+- due diligence preparation and research
+- notes written later don't carry the same weight...
+- record everything (doesn't matter how or what format)
+
+### Where things went wrong:
+- Agonising about how to do it...
+- Anxiety of presenting...
+- Procrastination...
+- False starts
+- Technology roadblocks
+- Failure of ideas
+
+### What do i actually need to do?
+
+### Solution:
 
 # Prequel Two
 The picture from my phone of a ship at sea, in place it shouldn't be, sailing close to the rocks - means nothing ... 😄
@@ -99,3 +124,15 @@ I also have a breadboard, wiring, battery power supply and a number of other sen
 # Entry 5 - Week 8 preparation...
 
 I'm not sure how to pull off a zoom presentation. I have a half complete Powerpoint but think I am better off just sharing my GitHub site ... 
+
+# Entry 6 - The Prototype...
+I've settled on an ESP32-C6 1.47inch Display Development Board, 172×320, 262K Color, 160MHz Running Frequency Single-core Processor, Supports WiFi 6 & Bluetooth, With Colorful RGB LED, ESP32 With LVGL GUI interface...
+<table>
+  <tr>
+    <td><img alt="ESP32-C6" src="/2026_DES222_Process_Journal/images/ESP32-C6.jpg" width="300"></td>
+    <td><img alt="Expansion Diagram" src="/2026_DES222_Process_Journal/images/ESP32-C6expansion.jpg" width="300"></td>
+  </tr>
+</table>
+
+<p align="center"><img alt="Prototype" src="/2026_DES222_Process_Journal/images/Prototype.jpg" width="450"></p> 
+I disconnected all the sensors from the ESP32 again and will reconnect 1 by 1 this time with the software - Just like flying! If you add something new, only change 1 thing!
