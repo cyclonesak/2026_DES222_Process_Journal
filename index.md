@@ -136,3 +136,48 @@ I've settled on an ESP32-C6 1.47inch Display Development Board, 172×320, 262K C
 
 <p align="center"><img alt="Prototype" src="/2026_DES222_Process_Journal/images/Prototype.jpg" width="450"></p> 
 I disconnected all the sensors from the ESP32 again and will reconnect 1 by 1 this time with the software - Just like flying! If you add something new, only change 1 thing!
+
+# Entry 7 - Consolidation of the laast few weeks...
+There has been a lot of wheel spinning. I have been experimenting with a number of different IDE's:
+- Arduino IDE was the first one I got working
+- [Thonny](https://thonny.org/) was next - It was interesting in that I used MicroPython instead of C++
+    - https://gist.github.com/invisiblek
+- VS Code is also working using PlatformIO
+
+Some other projects also helped in working towards an operational prototype:
+- https://github.com/thewall1963/C6
+- https://github.com/merlinmb/ESP32-C6-LCD-1.47_GithubCommits
+- https://github.com/AndroidCrypto/ESP32_C6_Waveshare_ST7789_Starter
+- https://github.com/AndroidCrypto/TFT_eSPI
+
+
+# Entry 7 - Consolidation of the last few weeks...
+There has been a lot of wheel spinning. I have been experimenting with a number of different IDE's:
+- Arduino IDE was the first one I got working
+- [Thonny](https://thonny.org/) was next - It was interesting in that I used MicroPython instead of C++
+    - https://gist.github.com/invisiblek
+- VS Code is also working using PlatformIO
+
+Some other projects also helped in working towards an operational prototype:
+- https://github.com/thewall1963/C6
+- https://github.com/merlinmb/ESP32-C6-LCD-1.47_GithubCommits
+- https://github.com/AndroidCrypto/ESP32_C6_Waveshare_ST7789_Starter
+- https://github.com/AndroidCrypto/TFT_eSPI
+
+I also discovered too late, a better UV sensor, LTR190.
+
+But in other goood news, I have now calibrated my S12SD using a few layers of plumber's thread-seal (Teflon) tape over the sensor's window. The PTFE lets UV through but spreads it and weakens it making the sensor a little less positionally dependent. I've tested it tody in a range from 8.0 down to sunset and it scales reasonably closely.
+
+<!-- ![UV Filter Web Interface calibration check](/images/UVwebInterface.png)
+![UV sensor wrapped](/images/UV%20sensor%20wrap.jpg)
+![UV Filter LCD screen calibration check](/images/UVlcd.jpg) -->
+
+<table>
+  <tr>
+    <td><img alt="UV Filter Web Interface" src="/2026_DES222_Process_Journal/images/UVwebInterface.png" width="300"></td>
+    <td><img alt="UV filter PTFE wrap" src="/2026_DES222_Process_Journal/images/UV%20sensor%20wrap.jpg" width="300"></td>
+  </tr>
+</table>
+<p align="center"><img alt="UV Filter LCD screen calibration check" src="/2026_DES222_Process_Journal/images/UVlcd.jpg" width="450"></p>
+
+The main.cpp file now runs to ~500 lines but that has a lot of changes yet to happen... but its working... and I am progressing.
