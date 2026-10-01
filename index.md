@@ -181,3 +181,14 @@ But in other goood news, I have now calibrated my S12SD using a few layers of pl
 <p align="center"><img alt="UV Filter LCD screen calibration check" src="/2026_DES222_Process_Journal/images/UVlcd.jpg" width="450"></p>
 
 The main.cpp file now runs to ~500 lines but that has a lot of changes yet to happen... but its working... and I am progressing.
+
+#
+# Working Prototype (Entry 8)
+
+3 sensors, 2 temperature and one UV along with a UV forecast model for the location.
+<table>
+  <tr>
+    <td><img alt="Prototype Web Interface" src="/2026_DES222_Process_Journal/images/prototype_web.jpg" width="300"></td>
+    <td><img alt="Prototype LCD screen" src="/2026_DES222_Process_Journal/images/prototype_LCD.jpg" width="300"></td>
+  </tr>
+</table>
