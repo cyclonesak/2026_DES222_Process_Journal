@@ -192,3 +192,11 @@ The main.cpp file now runs to ~500 lines but that has a lot of changes yet to ha
     <td><img alt="Prototype LCD screen" src="/2026_DES222_Process_Journal/images/prototype_LCD.jpg" width="300"></td>
   </tr>
 </table>
+
+# Entry 9
+Lots of time spent fine tuning the alarms states and refining the webpage but the outcome is looking pretty good.
+
+<p align="center"><img alt="Website V2" src="/2026_DES222_Process_Journal/images/WebsiteV2.png" width="512" height="682"></p>
+
+I also asked AI to rewrite the README.md file for the app and its done a good job.
+[README.md](https://github.com/cyclonesak/KiteSafeApp/blob/main/README.md)
