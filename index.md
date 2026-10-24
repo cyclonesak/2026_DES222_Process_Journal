@@ -200,3 +200,13 @@ Lots of time spent fine tuning the alarms states and refining the webpage but th
 
 I also asked AI to rewrite the README.md file for the app and its done a good job.
 [README.md](https://github.com/cyclonesak/KiteSafeApp/blob/main/README.md)
+
+# Entry 10 Marketing
+
+<div style="text-align:center;">
+    <h2>Project Intro Video</h2>
+    <video controls style="width:100%; max-width:900px; ">
+        <source src="/2026_DES222_Process_Journal/images/IntroVid.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
+</div>
