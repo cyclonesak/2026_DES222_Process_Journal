@@ -27,11 +27,11 @@ Setting up the Journal based on week 5 learning materials
 ### Solution:
 
 # Prequel Two
-This photo from my phone shows a ship sailing close to the rocks, where it shouldn't be. On its own, it means nothing... 😄
+This photo from my phone shows a ship sailing close to the rocks, where it shouldn't be. Means nothing... 😄
 <p align="center"><img alt="Ship at sea" src="/2026_DES222_Process_Journal/images/ship_at_sea.jpg" width="512" height="682"></p>
 
 # Prequel Three
-I added the [YouTube solution](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/) to the `_includes` folder.
+I added this [YouTube solution](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/) to the `_includes` folder.
 The proof video is one of mine.
 {% include youtube.html id="lRtFz77kVhU" %}
 ---
@@ -40,7 +40,7 @@ The proof video is one of mine.
 ---
 # Entry 1 - Monday 17 August 2026
 - Roughed out a concept and plan in the [README.md](/README.md) file
-- This entry below updates as the README.md file is updated
+- This journal entry below updates as the original README.md file is updated
 
 <div id="readme-window" style="
     border:1px solid #ccc;
@@ -99,7 +99,7 @@ s = x * r + s * (1 - r)
 The WORST part... I want to produce * **something** * I am struggling so much visualising a coherent, stable vision of what * **something** * is!  
 I get lost in a detail and stray from my goal with needless complexity.
 
-I need help, I don't know how to ask - its not something I do.
+Asking for help? - its not something I do. Bit of a character flaw.
 
 ### In other news...
 
@@ -143,10 +143,10 @@ There has been a lot of wheel-spinning. I have been experimenting with a number 
 - VS Code is also working using PlatformIO
 
 Some other projects also helped in working towards an operational prototype:
-- https://github.com/thewall1963/C6
-- https://github.com/merlinmb/ESP32-C6-LCD-1.47_GithubCommits
-- https://github.com/AndroidCrypto/ESP32_C6_Waveshare_ST7789_Starter
-- https://github.com/AndroidCrypto/TFT_eSPI
+- [Waveshare ESP32-C6-LCD-1.47 — LVGL Starter](https://github.com/thewall1963/C6)
+- [ESP32-C6 GitHub Contributions Monitor](https://github.com/merlinmb/ESP32-C6-LCD-1.47_GithubCommits)
+- [ESP32-C6 Waveshare with ST7789 1.47 inch TFT display Starter](https://github.com/AndroidCrypto/ESP32_C6_Waveshare_ST7789_Starter)
+- [forked TFT_eSPI repository](https://github.com/AndroidCrypto/TFT_eSPI)
 
 I also discovered too late, a better UV sensor, LTR190.
 
@@ -175,6 +175,10 @@ The prototype uses three sensors: two temperature sensors and one UV sensor. It 
     <td><img alt="Prototype LCD screen" src="/2026_DES222_Process_Journal/images/prototype_LCD.jpg" width="300"></td>
   </tr>
 </table>
+
+I have created a new repository on GitHub, this one is private but I have shared it with Toby, hopefully the linkss here will share the content.
+
+[KiteSafe App]()
 
 # Entry 9
 I've spent a lot of time fine-tuning the alarm states and refining the webpage. The result is looking pretty good.
@@ -443,3 +447,13 @@ The beep on the Laptop / Tablet when the device hits an alarm condition ...
         Your browser does not support HTML5 video.
     </video>
 </div>
+
+# What should be the last entry...
+
+The showreel...
+
+{% include youtube.html id="0auqfFRSWZQ" %}
+
+## The end
+
+{% include youtube.html id="0GN-WjReIwI" %}
