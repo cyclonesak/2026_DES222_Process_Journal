@@ -211,6 +211,8 @@ I also asked AI to rewrite the README.md file for the app and its done a good jo
     </video>
 </div>
 
+I LOVE this use of AI. It relieves me of the trauma of being in front of a camera ㋡
+
 # Entry 11 Sea trials went well ... NOT!
 
 <p align="center"><img alt="Soggy mobile pone" src="/2026_DES222_Process_Journal/images/S25.jpg" width="512"></p>
@@ -219,7 +221,7 @@ Wasn't even my dodgey attempts to waterproof the device - this is my Samsung S25
 
 # Entry 12 Getting the model set to wear
 
-<p align="center"><img alt="before adding the waterproof cover" src="/2026_DES222_Process_Journal/images/wrist_prototype1.jpg" width="512"</p>
+<p align="center"><img alt="before adding the waterproof cover" src="/2026_DES222_Process_Journal/images/wrist_prototype1.jpg" width="512"></p>
 
 The buzzer alarm speaker is sitting upright on its side - I tried laying it flat but I need a bit of air space in there so it doesn't get too muted under the waterproof layer.
 
