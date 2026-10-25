@@ -403,6 +403,9 @@ I had to remove a few layers of the teflon wrap to account for the waterproof co
 
 The absolute best thing I've done for the sensors reading is the calibration button. I remapped one of the buttons on the device to "zero" the UV index reading against the model forecast - the idea is you get to your site, setup all your gear, then just as you're about to go out, while you're standing on the beach in the sun, press the calibrate button and it sets the current reading at whatever the model says. It then rises and falls as per local readings along with the math for when the "too much exposure" alarm goes off. The calibrate button also sets the colour readings for the temperature sensors. The internal and external sensors start as a neutral colour - they scale to red (hot) as the reading increases and blue (cold) as it decreases.  
 
-
 <p align="center"><img alt="the prototype" src="/2026_DES222_Process_Journal/images/with_cover_on.jpg" width="512"></p>
+
+And here it is on the wrist of my fake blue arm. When kitesiurfing, your arms are up in front of you holding onto the bar - the back of your wrist (where your watch face would be) is a great position to get a reliable sun reading.
+
+The silver tube visible at the top is the external temperature reading. The internal sensor is all the way down towards the users wrist (sideways so it wont inhibit movements). As discussed way back at the start of the project, a change in a person's core body temp is a VERY late sign - I've tried to position it as periferal/distal as possible where it is much more likely to find a measurable change. The actual alarm setting need proper extensive sea trials in a range of seasonal conditions to be finalised correctly.
 
