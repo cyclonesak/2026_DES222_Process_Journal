@@ -4,36 +4,34 @@
 Setting up the Journal based on week 5 learning materials
 ---
 ### Record everything in raw form in a way you can revisit it...
-- track what you've done
-- parameters settings material
-- where you found stuff
-- keeper of ideas
-- List and sketches
-- concepts
-- raw working notes process journal (Copyright)
-- showing development process
-- due diligence preparation and research
-- notes written later don't carry the same weight...
-- record everything (doesn't matter how or what format)
+- Track what you've done
+- Record parameter settings and materials
+- Note where you found things
+- Keep ideas, lists, sketches, and concepts
+- Capture raw working notes in your process journal (copyright)
+- Show how your ideas develop
+- Record preparation, research, and due diligence
+- Remember that notes written later don't carry the same weight...
+- Record everything, regardless of the format
 
 ### Where things went wrong:
-- Agonising about how to do it...
-- Anxiety of presenting...
+- Agonising over how to do it...
+- Feeling anxious about presenting...
 - Procrastination...
 - False starts
 - Technology roadblocks
 - Failure of ideas
 
-### What do i actually need to do?
+### What do I actually need to do?
 
 ### Solution:
 
 # Prequel Two
-The picture from my phone of a ship at sea, in place it shouldn't be, sailing close to the rocks - means nothing ... 😄
+This photo from my phone shows a ship sailing close to the rocks, where it shouldn't be. On its own, it means nothing... 😄
 <p align="center"><img alt="Ship at sea" src="/2026_DES222_Process_Journal/images/ship_at_sea.jpg" width="512" height="682"></p>
 
 # Prequel Three
-Added the [Youtube solution](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/) _includes folder.
+I added the [YouTube solution](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/) to the `_includes` folder.
 The proof video is one of mine.
 {% include youtube.html id="lRtFz77kVhU" %}
 ---
@@ -71,7 +69,7 @@ Guided by Australian [Disability Discrimination Act 1992](https://www.legislatio
     - Ensure zoom up to 200% resizes page appropriately  
       (Works ~same as changing page width to slightly rearrange content)
     - If images include text -> ensure sufficient contrast  
-      Use Luminance not Hue (HSV/HSL instead of RGB)
+      Check contrast using luminance-based tools rather than relying on hue alone.
       [Colour Contrast Tool](https://portableapps.com/apps/utilities/colour-contrast-analyser-portable)
     - Ensure images have Alt text
     - Have a thought out logical heading structure in your HTML code.
@@ -86,7 +84,7 @@ Guided by Australian [Disability Discrimination Act 1992](https://www.legislatio
   - No autoplaying videos or animations and no flashing elements  
     (Implement a "pause background animation" feature)
   - Make it left justified  
-  - Consider using an accessibilityy widget like [this...](https://userway.org/widget/)
+  - Consider using an accessibility widget like [this one](https://userway.org/widget/).
 
 # Entry 3 - Week 6
 ### Data smoothing example
@@ -135,12 +133,12 @@ I've settled on an ESP32-C6 1.47inch Display Development Board, 172×320, 262K C
 </table>
 
 <p align="center"><img alt="Prototype" src="/2026_DES222_Process_Journal/images/Prototype.jpg" width="450"></p> 
-I disconnected all the sensors from the ESP32 again and will reconnect 1 by 1 this time with the software - Just like flying! If you add something new, only change 1 thing!
+I disconnected all the sensors from the ESP32 again. This time, I'll reconnect them one at a time and test the software as I go. As with flying, I'll change only one thing at a time!
 
 # Entry 7 - Consolidation of the last few weeks...
-There has been a lot of wheel spinning. I have been experimenting with a number of different IDE's:
+There has been a lot of wheel-spinning. I have been experimenting with a number of different IDEs:
 - Arduino IDE was the first one I got working
-- [Thonny](https://thonny.org/) was next - It was interesting in that I used MicroPython instead of C++
+- [Thonny](https://thonny.org/) was next. It was interesting because I used MicroPython instead of C++.
     - https://gist.github.com/invisiblek
 - VS Code is also working using PlatformIO
 
@@ -152,7 +150,7 @@ Some other projects also helped in working towards an operational prototype:
 
 I also discovered too late, a better UV sensor, LTR190.
 
-But in other goood news, I have now calibrated my S12SD using a few layers of plumber's thread-seal (Teflon) tape over the sensor's window. The PTFE lets UV through but spreads it and weakens it making the sensor a little less positionally dependent. I've tested it today in a range from 8.0 down to sunset and it scales reasonably closely.
+But in other good news, I have now calibrated my S12SD using a few layers of plumber's thread-seal (Teflon) tape over the sensor's window. The PTFE lets UV through, but diffuses and attenuates it, making the sensor a little less position-dependent. I tested it today as the UV index fell from 8.0 toward sunset, and the readings tracked the forecast reasonably closely.
 
 <!-- ![UV Filter Web Interface calibration check](/images/UVwebInterface.png)
 ![UV sensor wrapped](/images/UV%20sensor%20wrap.jpg)
@@ -166,12 +164,11 @@ But in other goood news, I have now calibrated my S12SD using a few layers of pl
 </table>
 <p align="center"><img alt="UV Filter LCD screen calibration check" src="/2026_DES222_Process_Journal/images/UVlcd.jpg" width="450"></p>
 
-The main.cpp file now runs to ~500 lines but that has a lot of changes yet to happen... but its working... and I am progressing.
+`main.cpp` is now about 500 lines long. There's still a lot to change, but it's working, and I'm making progress.
 
-# 
 # Working Prototype (Entry 8)
 
-3 sensors, 2 temperature and one UV along with a UV forecast model for the location.
+The prototype uses three sensors: two temperature sensors and one UV sensor. It also uses a UV forecast model for the location.
 <table>
   <tr>
     <td><img alt="Prototype Web Interface" src="/2026_DES222_Process_Journal/images/prototype_web.jpg" width="300"></td>
@@ -180,7 +177,7 @@ The main.cpp file now runs to ~500 lines but that has a lot of changes yet to ha
 </table>
 
 # Entry 9
-Lots of time spent fine tuning the alarms states and refining the webpage but the outcome is looking pretty good.
+I've spent a lot of time fine-tuning the alarm states and refining the webpage. The result is looking pretty good.
 
 <p align="center"><img alt="Website V2" src="/2026_DES222_Process_Journal/images/WebsiteV2.png" width="512"></p>
 
@@ -198,7 +195,7 @@ web page you can open on your phone. It warns you (or your parent or significant
 other on the beach) with the display, an RGB LED, a buzzer and the web page when
 conditions become dangerous.</p>
 
-<p><strong>Note:</strong> It's' not a certified safety instrument. Always check conditions
+<p><strong>Note:</strong> It's not a certified safety instrument. Always check conditions
 yourself.</p>
 
 <h2>Features</h2>
@@ -208,7 +205,7 @@ yourself.</p>
     the Australian UV colour scale.</li>
   <li><strong>Calibration at the beach</strong> with one button press, using
     <a href="https://open-meteo.com/">Open-Meteo</a> modelled UV as the reference.</li>
-  <li><strong>Two temperature probes</strong> (Internal and External) coloured by change from a
+  <li><strong>Two temperature probes</strong> (internal and external) coloured by change from a
     base reading you set on the same button press.</li>
   <li><strong>Alarms</strong> for dangerous UV exposure and for a large temperature difference
     between the probes.</li>
@@ -269,7 +266,7 @@ compile time).</p>
     additive offset. From then on the device reports changes up or down from that
     point. Needs Wi-Fi and a fresh Open-Meteo value; otherwise the LCD shows
     "Cal failed".</li>
-  <li><strong>Temperature:</strong> the current Internal and External readings are stored as base
+  <li><strong>Temperature:</strong> the current internal and external readings are stored as base
     readings. This happens even if the UV step fails.</li>
   <li>The offset and bases are saved in flash and survive reboots.</li>
 </ul>
@@ -313,7 +310,7 @@ the difference, for example "+1.8 °C - Warmer than base".</p>
 <p>A <strong>temperature-gap alarm</strong> starts when the two probes differ by 10 °C or more
 and clears automatically when the gap closes.</p>
 
-<p><strong><em>these are arbitary figures used in testing and will be subject to refinement
+<p><strong><em>These are arbitrary figures used in testing and will be subject to refinement
 during trials.</em></strong></p>
 
 <h3>Alarm outputs</h3>
@@ -375,7 +372,7 @@ no animation or flashing; light and dark modes. I tried to make the page "access
 
 </div>
 
-# Entry 10 Marketing
+# Entry 10 - Marketing
 
 <div style="text-align:center;">
     <h2>Project Intro Video</h2>
@@ -387,29 +384,31 @@ no animation or flashing; light and dark modes. I tried to make the page "access
 
 I LOVE this use of AI. It relieves me of the trauma of being in front of a camera ㋡
 
-It's little animations like this that I would use on social media kitesurfing pages to promote my product.
+These are the kinds of animations I would use on social media kitesurfing pages to promote my product.
 
-# Entry 11 Sea trials went well ... NOT!
+# Entry 11 - Sea trials went well... NOT!
 
-<p align="center"><img alt="Soggy mobile pone" src="/2026_DES222_Process_Journal/images/S25.jpg" width="256"></p>
+<p align="center"><img alt="Soggy mobile phone" src="/2026_DES222_Process_Journal/images/S25.jpg" width="256"></p>
 
-Wasn't even my dodgey attempts to waterproof the device - this is my Samsung S25 mobile phone that was in the commercially sold supposedly waterproof case under my wetsuit ☹
+Wasn't even my dodgy attempts to waterproof the device - this is my Samsung S25 mobile phone that was in the commercially sold supposedly waterproof case under my wetsuit ☹
 
-# Entry 12 Getting the model set to wear
+# Entry 12 - Making the prototype wearable
 
 <p align="center"><img alt="before adding the waterproof cover" src="/2026_DES222_Process_Journal/images/wrist_prototype1.jpg" width="512"></p>
 
-The buzzer alarm speaker is sitting upright on its side - I tried laying it flat but I need a bit of air space in there so it doesn't get too muted under the waterproof layer.
+The buzzer is mounted upright, with its side facing out. I tried laying it flat, but it needs some air space so the sound isn't too muffled by the waterproof layer.
 
-I had to remove a few layers of the teflon wrap to account for the waterproof covering. Trial and error got me close to the predicted reading. 
+I had to remove a few layers of the Teflon wrap to account for the waterproof covering. Trial and error got me close to the predicted reading.
 
-The absolute best thing I've done for the sensors reading is the calibration button. I remapped one of the buttons on the device to "zero" the UV index reading against the model forecast - the idea is you get to your site, setup all your gear, then just as you're about to go out, while you're standing on the beach in the sun, press the calibrate button and it sets the current reading at whatever the model says. It then rises and falls as per local readings along with the math for when the "too much exposure" alarm goes off. The calibrate button also sets the colour readings for the temperature sensors. The internal and external sensors start as a neutral colour - they scale to red (hot) as the reading increases and blue (cold) as it decreases.  
+The calibration button has been the most useful improvement for the sensor readings. I remapped one of the device's buttons to align the UV index reading with the forecast. At the beach, after setting up, I can press the button just before heading out. It sets the current reading to the model's value. The reading then rises and falls with local conditions, and the device uses it to calculate when the "too much exposure" alarm should sound.
+
+The button also sets the temperature sensors' base readings. The internal and external sensors start at a neutral colour, then shift toward red (hot) as the reading rises and blue (cold) as it falls.
 
 <p align="center"><img alt="the prototype" src="/2026_DES222_Process_Journal/images/with_cover_on.jpg" width="512"></p>
 
-And here it is on the wrist of my left arm (oversized watch - remember this is a prototype and miniturisation will happen in subsequent builds). When kitesiurfing, your arms are up in front of you holding onto the bar - the back of your wrist (where your watch face would be) is a great position to get a reliable UV reading.
+Here it is on my left wrist. It looks like an oversized watch, but this is a prototype; miniaturisation will come in later builds. When I kitesurf, my arms are in front of me holding the bar, so the back of my wrist—where a watch face would sit—seems like a good position for getting a reliable UV reading.
 
-The silver tube visible at the top is the external temperature sensor. The internal sensor is all the way down towards the users wrist (sideways so it wont inhibit movements). As discussed way back at the start of the project, a change in a person's core body temp is a VERY late sign - I've tried to position it as periferal/distal as possible where it is much more likely to find a measurable change. The actual alarm setting need proper extensive sea trials in a range of seasonal conditions to be finalised correctly.
+The silver tube at the top is the external temperature sensor. The internal sensor sits near the user's wrist, turned sideways so it won't restrict movement. As discussed earlier in the project, a change in core body temperature is a VERY late warning sign. I've tried to position this sensor as peripherally as possible, where it is more likely to detect a measurable change. The alarm threshold needs extensive sea trials in different seasonal conditions before it can be finalised.
 
 <div style="text-align:center;">
     <h2>Responsive Display implementation</h2>
@@ -419,7 +418,7 @@ The silver tube visible at the top is the external temperature sensor. The inter
     </video>
 </div>
 
-Here is another image of the completed prototype devivce in its waterproofing on my fake pool noodle arm... I twisted the "Internal" sensor around so you can see the placement where its sticking out from under the device on the right hand (hand) side.
+Here is another image of the completed prototype in its waterproof covering on my fake pool-noodle arm. I turned the internal sensor around to show where it sticks out from under the device on the right-hand side.
 
 <p align="center"><img alt="the_device" src="/2026_DES222_Process_Journal/images/blue_arm_model.jpg" width="512"></p>
 
