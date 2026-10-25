@@ -387,6 +387,8 @@ no animation or flashing; light and dark modes. I tried to make the page "access
 
 I LOVE this use of AI. It relieves me of the trauma of being in front of a camera ㋡
 
+It's little animations like this that I would use on social media kitesurfing pages to promote my product.
+
 # Entry 11 Sea trials went well ... NOT!
 
 <p align="center"><img alt="Soggy mobile pone" src="/2026_DES222_Process_Journal/images/S25.jpg" width="256"></p>
@@ -417,7 +419,7 @@ The silver tube visible at the top is the external temperature sensor. The inter
     </video>
 </div>
 
-Here is another image of the completed prototype devivce in its waterproofing on my fake pool noodle arm...
+Here is another image of the completed prototype devivce in its waterproofing on my fake pool noodle arm... I twisted the "Internal" sensor around so you can see the placement where its sticking out from under the device on the right hand (hand) side.
 
 <p align="center"><img alt="the_device" src="/2026_DES222_Process_Journal/images/blue_arm_model.jpg" width="512"></p>
 
@@ -426,7 +428,11 @@ And a couple of screenshots from the phone interface
 <table>
   <tr>
     <td><img alt="Mobile Interface" src="/2026_DES222_Process_Journal/images/Mobile_alaming1.jpg" width="300"></td>
-    <td><img alt="Mobile interface 2" src="/2026_DES222_Process_Journal/images/Mobile_alarming2.jpg" width="300"></td>
     <td><img alt="Mobile interface 3" src="/2026_DES222_Process_Journal/images/Mobile3.jpg" width="300"></td>
   </tr>
 </table>
+
+Desktop / Tablet display with alarm message
+
+<p align="center"><img alt="Tablet displaying alarm message" src="/2026_DES222_Process_Journal/images/Tablet_alarmblue_arm_model.jpg" width="512"></p>
+
