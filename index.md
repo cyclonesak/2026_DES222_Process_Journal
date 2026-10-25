@@ -432,7 +432,15 @@ And a couple of screenshots from the phone interface
   </tr>
 </table>
 
-Desktop / Tablet display with alarm message
+Laptop / Tablet display with alarm message
 
-<p align="center"><img alt="Tablet displaying alarm message" src="/2026_DES222_Process_Journal/images/Tablet_alarmblue_arm_model.jpg" width="512"></p>
+<p align="center"><img alt="Tablet displaying alarm message" src="/2026_DES222_Process_Journal/images/Tablet_alarm.jpg" width="512"></p>
 
+The beep on the Laptop / Tablet when the device hits an alarm condition ... 
+
+<div style="text-align:center;">
+    <video controls style="width:100%; max-width:900px; ">
+        <source src="/2026_DES222_Process_Journal/images/Display_alarm.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
+</div>
