@@ -454,6 +454,9 @@ The showreel...
 
 {% include youtube.html id="0auqfFRSWZQ" %}
 
-## The end
+<p align="center"><img alt="KiteSurf App Showreel coverpage" src="/2026_DES222_Process_Journal/images/KiteSafe_App_Showreel.png" width="512"></p>
+
+#### The end
 
 {% include youtube.html id="0GN-WjReIwI" %}
+Not my video but seemed like a chill way to finish the thread :)
