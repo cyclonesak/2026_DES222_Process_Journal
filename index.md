@@ -176,9 +176,7 @@ The prototype uses three sensors: two temperature sensors and one UV sensor. It 
   </tr>
 </table>
 
-I have created a new repository on GitHub, this one is private but I have shared it with Toby, hopefully the linkss here will share the content.
-
-[KiteSafe App]()
+I have created a new repository on GitHub, this one is private but I have shared it with Toby, hopefully the link here will share the content. [KiteSafe App](https://github.com/cyclonesak/KiteSafeApp)
 
 # Entry 9
 I've spent a lot of time fine-tuning the alarm states and refining the webpage. The result is looking pretty good.
