@@ -405,7 +405,7 @@ The absolute best thing I've done for the sensors reading is the calibration but
 
 <p align="center"><img alt="the prototype" src="/2026_DES222_Process_Journal/images/with_cover_on.jpg" width="512"></p>
 
-And here it is on the wrist of my fake blue arm. When kitesiurfing, your arms are up in front of you holding onto the bar - the back of your wrist (where your watch face would be) is a great position to get a reliable UV reading.
+And here it is on the wrist of my left arm (oversized watch - remember this is a prototype and miniturisation will happen in subsequent builds). When kitesiurfing, your arms are up in front of you holding onto the bar - the back of your wrist (where your watch face would be) is a great position to get a reliable UV reading.
 
 The silver tube visible at the top is the external temperature sensor. The internal sensor is all the way down towards the users wrist (sideways so it wont inhibit movements). As discussed way back at the start of the project, a change in a person's core body temp is a VERY late sign - I've tried to position it as periferal/distal as possible where it is much more likely to find a measurable change. The actual alarm setting need proper extensive sea trials in a range of seasonal conditions to be finalised correctly.
 
@@ -417,4 +417,6 @@ The silver tube visible at the top is the external temperature sensor. The inter
     </video>
 </div>
 
-TBC
+Here is another image of the completed prototype devivce in its waterproofing on my fake pool noodle arm...
+
+<p align="center"><img alt="the_device" src="/2026_DES222_Process_Journal/images/blue_arm_model.jpg" width="512"></p>
