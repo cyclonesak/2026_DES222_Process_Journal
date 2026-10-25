@@ -185,6 +185,8 @@ I've spent a lot of time fine-tuning the alarm states and refining the webpage. 
 
 <p align="center"><img alt="Website V2" src="/2026_DES222_Process_Journal/images/WebsiteV2.png" width="512"></p>
 
+(My desktop is set to dark mode all the time)
+
 The README.md file for the app 
 [README.md](https://github.com/cyclonesak/KiteSafeApp/blob/main/README.md)
 
@@ -426,7 +428,7 @@ Here is another image of the completed prototype in its waterproof covering on m
 
 <p align="center"><img alt="the_device" src="/2026_DES222_Process_Journal/images/blue_arm_model.jpg" width="512"></p>
 
-And a couple of screenshots from the phone interface
+And a couple of screenshots from the phone interface. Note this is what Light mode looks like.
 
 <table>
   <tr>
@@ -454,7 +456,11 @@ The showreel...
 
 {% include youtube.html id="0auqfFRSWZQ" %}
 
-<p align="center"><img alt="KiteSurf App Showreel coverpage" src="/2026_DES222_Process_Journal/images/KiteSafe_App_Showreel.png" width="512"></p>
+<iframe
+    src="/Doc/ScottKENNEDY_9009245_DES222_Task3.pdf"
+    width="100%"
+    height="800">
+</iframe>
 
 #### The end
 
