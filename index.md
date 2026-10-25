@@ -206,7 +206,7 @@ I also asked AI to rewrite the README.md file for the app and its done a good jo
 <div style="text-align:center;">
     <h2>Project Intro Video</h2>
     <video controls style="width:100%; max-width:900px; ">
-        <source src="/2026_DES222_Process_Journal/images/IntroVid.mp4" type="video/mp4">
+        <source src="/2026_DES222_Process_Journal/images/IntroVideo.mp4" type="video/mp4">
         Your browser does not support HTML5 video.
     </video>
 </div>
