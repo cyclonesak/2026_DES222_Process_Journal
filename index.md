@@ -184,7 +184,7 @@ Lots of time spent fine tuning the alarms states and refining the webpage but th
 
 <p align="center"><img alt="Website V2" src="/2026_DES222_Process_Journal/images/WebsiteV2.png" width="512"></p>
 
-The README.md file for the appL 
+The README.md file for the app 
 [README.md](https://github.com/cyclonesak/KiteSafeApp/blob/main/README.md)
 
 <div>
@@ -409,3 +409,10 @@ And here it is on the wrist of my fake blue arm. When kitesiurfing, your arms ar
 
 The silver tube visible at the top is the external temperature reading. The internal sensor is all the way down towards the users wrist (sideways so it wont inhibit movements). As discussed way back at the start of the project, a change in a person's core body temp is a VERY late sign - I've tried to position it as periferal/distal as possible where it is much more likely to find a measurable change. The actual alarm setting need proper extensive sea trials in a range of seasonal conditions to be finalised correctly.
 
+<div style="text-align:center;">
+    <h2>Responsive Display implementation</h2>
+    <video controls style="width:100%; max-width:900px; ">
+        <source src="/2026_DES222_Process_Journal/images/operation_video.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
+</div>
